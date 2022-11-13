@@ -27,11 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- [Animate.css](https://animate.style/)
 
 ## 💻 Projeto
 
 O projeto card nlw foi desenvolvido com o intuito de criar sua própria figurinha da copa usando um layout do Figma como base, 
-alem usar HTML e CSS adicionamos uma funcionalidade de trocar o fundo do cartão com um click no mesmo usando JavaScript. 
+alem usar HTML e CSS adicionamos uma funcionalidade de trocar o fundo do cartão com um click no mesmo usando JavaScript e adicioando animações utilizando
+a biblioteca Animate css.
 
 ## 🔖 Layout
 
